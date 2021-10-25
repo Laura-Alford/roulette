@@ -1,0 +1,37 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+#green{
+  background-color: green;
+  color: blanchedalmond;
+}
+
+.green{
+  background-color: green;
+  color: blanchedalmond;
+}
+
+#red{
+  background-color: red;
+  color: blanchedalmond;
+}
+
+.red{
+  background-color: red;
+  color: blanchedalmond;
+}
+
+#purple{
+  background-color: purple;
+  color: blanchedalmond;
+}
+
+.purple{
+  background-color: purple;
+  color: blanchedalmond;
+}
